@@ -1,16 +1,24 @@
 #数据之路
->>##程序员的数学
-|数学思维|线性代数|概率统计|
-|:---:|:----:|:----:|
+
 >>##计算机专业基础
-<table>
-    <tr>
-        <td><img src="./images/s1_linux.jpg">Linux</td>
-        <td><img src="./images/s1_linux.jpg" />C</td>
-        <td><img src="./images/s1_linux.jpg" />数据结构</td>
-        <td><img src="./images/s1_linux.jpg" />算法</td>
-        <td><img src="./images/s1_linux.jpg" />网络协议</td>
-        <td><img src="./images/s1_linux.jpg" />编译原理</td>
-    </tr>
-</table>
+|数学|操作系统|编程语言基础|数据结构|算法|网络协议|编译原理|
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+|[思维]() / [线性代数]() / [概率论]() |[![linux](images/s1-linux-20-24.jpg)Linux]()|[C]()|[数据结构]()|[算法]()|[TCP]() / [IP]()|[编译原理]()|
+
+>>##编程高级语言
+|[C++]()|[![java](images/s1-java-20-24.jpg)Java]()|[Scala]()|[Python]()|
+|:----:|:----:|:----:|:----:|
+
+>>##数据库
+|关系型|键值存储|列存储|面向文档|图形|搜索引擎存储|
+|:----:|:----:|:----:|:----:|:----:|:----:|
+|[Mysql]()|[Redis]()|[HBase]()|[Mongo]() / [CouchDB]()|[Neo4j]()|[ElasticSearch]() / [Solr]()|
+
+>>##语言框架
+|SSM|键值存储|列存储|面向文档|图形|搜索引擎存储|
+|:----:|:----:|:----:|:----:|:----:|:----:|
+|[spring]() / [springmvc]() / [mybatis]()|[Redis]()|[HBase]()|[Mongo]() / [CouchDB]()|[Neo4j]()|[ElasticSearch]() / [Solr]()|
+
+
+
 
