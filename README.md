@@ -15,9 +15,9 @@
 |[Mysql]()|[Redis]()|[HBase]()|[Mongo]() / [CouchDB]()|[Neo4j]()|[ElasticSearch]() / [Solr]()|
 
 >>##语言框架
-|SSM|键值存储|列存储|面向文档|图形|搜索引擎存储|
-|:----:|:----:|:----:|:----:|:----:|:----:|
-|[spring]() / [springmvc]() / [mybatis]()|[Redis]()|[HBase]()|[Mongo]() / [CouchDB]()|[Neo4j]()|[ElasticSearch]() / [Solr]()|
+|SSM|
+|:----:|
+|[spring]() / [springmvc]() / [mybatis]()|
 
 
 
