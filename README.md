@@ -1,7 +1,7 @@
 # 数据之路
 
 ## 大数据预科
-|[Java](#Java基础)|[Java Web](#Web数据可视化)|[数据结构与算法]()|[设计模式]()|  
+|[Java](#Java基础)|[Java Web](#JavaWeb数据可视化)|[数据结构与算法]()|[设计模式]()|  
 |:----:|:----:|:----:|:----:|
 
 <!-- ## 计算机专业基础  
@@ -45,16 +45,29 @@
 
 <br/>
 
-### Java基础
-   学习语法规则及核心类库，锻炼编程能力、建立编程思维、熟悉企业编码规范】
-*  [1.Java初识](languages/javase/java初始.md)
-*  [2.Java语言基础](languages/javase/java语言基础.md)
-*  [3.Java面向对象编程](languages/javase/java面向对象编程.md)
-*  [4.Java核心类库](languages/javase/java核心类库.md)
-*  [5. 常见面试题集](languages/java/面试.md)
+## 大数据预科篇
 
-### Web数据可视化
-【学习必要的JavaWeb后端及前端技术，储备快速进行大数据处理结果数据可视化的能力】
+### Java基础
+学习语法规则及核心类库，锻炼编程能力、建立编程思维、熟悉企业编码规范
+*  [1.Java初识](files/javaSe/java初始.md)
+*  [2.Java语言基础](files/javaSe/java语言基础.md)
+*  [3.Java面向对象编程](files/javaSe/java面向对象编程.md)
+*  [4.Java核心类库（上）](files/javaSe/java核心类库上.md)
+*  [5.Java核心类库（下）](files/javaSe/java核心类库下.md)
+
+### 数据可视化
+学习必要的JavaWeb后端及前端技术，储备快速进行大数据处理结果数据可视化的能力
+*  [1.mysql数据库](files/javaWeb/mysql.md)
+*  [2.前端可视化技术](files/javaWeb/前端可视化技术.md)
+*  [3.Java web后端技术（上）](files/javaWeb/后端技术上.md)
+*  [4.Java web后端技术（下）](files/javaWeb/后端技术下.md)
+*  [5.案例](files/javaWeb/案例.md)
+
+### 数据结构和算法
+
+
+### 设计模式
+*	[单例模式](files/designPattern/单例模式.md)
 
 
 ### 在读书籍
