@@ -1,7 +1,7 @@
 # 数据之路
 
 ## 大数据预科
-|[Java](#一Java基础)|[Java Web数据可视化](#二Web数据可视化)|  
+|[Java](#Java基础)|[Java Web](#Web数据可视化)|[数据结构]()|[算法]()|[设计模式]()|  
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|  
 
 <!-- ## 计算机专业基础  
@@ -45,7 +45,7 @@
 
 <br/>
 
-### 一、Java基础
+### Java基础
    学习语法规则及核心类库，锻炼编程能力、建立编程思维、熟悉企业编码规范】
 *  [1.Java初识](languages/javase/java初始.md)
 *  [2.Java语言基础](languages/javase/java语言基础.md)
@@ -53,10 +53,10 @@
 *  [4.Java核心类库](languages/javase/java核心类库.md)
 *  [5. 常见面试题集](languages/java/面试.md)
 
-### 二、Web数据可视化
+### Web数据可视化
 【学习必要的JavaWeb后端及前端技术，储备快速进行大数据处理结果数据可视化的能力】
 
 
-## 在读书籍
+### 在读书籍
 * [Java核心编程]()  
 * [Java编程的逻辑 - 马俊昌](http://search.dangdang.com/?key=Java%B1%E0%B3%CC%B5%C4%C2%DF%BC%AD&act=input)  
