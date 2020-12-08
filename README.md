@@ -1,11 +1,8 @@
 # 数据之路
 
 ## 大数据预科
-|Java SE|[![](images/s1-linux-20-24.png)Java Web](#Linux)|[数据结构]()|[算法]()|[TCP/IP]()|[编译原理]()|[设计模式]()|软件工程|  
+|[Java SE](#Java SE)|[Java Web](#Java Web数据可视化)|[数据结构]()|[算法]()|[TCP/IP]()|[编译原理]()|[设计模式]()|软件工程|  
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|  
-
-|[JavaSE](#JavaSE)|[JavaWEB数据可视化](#JavaWeb数据可视化)|  
-|:----:|:----:|:----:|:----:|:----:|  
 
 <!-- ## 计算机专业基础  
 
@@ -48,14 +45,16 @@
 
 <br/>
 
-## JavaSE【学习语法规则及核心类库，锻炼编程能力、建立编程思维、熟悉企业编码规范】
+## Java SE【
+   学习语法规则及核心类库，锻炼编程能力、建立编程思维、熟悉企业编码规范】
 *  [1.Java初识](languages/javase/java初始.md)
 *  [2.Java语言基础](languages/javase/java语言基础.md)
 *  [3.Java面向对象编程](languages/javase/java面向对象编程.md)
 *  [4.Java核心类库](languages/javase/java核心类库.md)
 *  [5. 常见面试题集](languages/java/面试.md)
 
-## JavaWeb数据可视化【学习必要的JavaWeb后端及前端技术，储备快速进行大数据处理结果数据可视化的能力】
+## Java Web数据可视化
+【学习必要的JavaWeb后端及前端技术，储备快速进行大数据处理结果数据可视化的能力】
 
 
 ## 在读书籍
