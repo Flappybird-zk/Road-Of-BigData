@@ -1,7 +1,7 @@
 # 数据之路
 
 ## 大数据预科
-|[![](images/s1-java-20-24.png)JavaSE](#一JavaSE)|[Java WEB数据可视化](#一JavaSE)|  
+|[JavaSE](#JavaSE)|[JavaWEB数据可视化](#JavaWeb数据可视化)|  
 |:----:|:----:|:----:|:----:|:----:|  
 
 <!-- ## 计算机专业基础  
@@ -51,6 +51,9 @@
 *  [3.Java面向对象编程](languages/javase/java面向对象编程.md)
 *  [4.Java核心类库](languages/javase/java核心类库.md)
 *  [5. 常见面试题集](languages/java/面试.md)
+
+## JavaWeb数据可视化【学习必要的JavaWeb后端及前端技术，储备快速进行大数据处理结果数据可视化的能力】
+
 
 ## 在读书籍
 * [Java核心编程]()  
