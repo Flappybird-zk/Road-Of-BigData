@@ -49,7 +49,7 @@
 
 ### Java基础
 学习语法规则及核心类库，锻炼编程能力、建立编程思维、熟悉企业编码规范
-*  [1.Java初识](files/javaSe/java初始.md)
+*  [1.Java初识](https://github.com/Flappybird-zk/Road-Of-BigData/blob/master/files/javaSe/java%E5%88%9D%E5%A7%8B.md)
 *  [2.Java语言基础](files/javaSe/java语言基础.md)
 *  [3.Java面向对象编程](files/javaSe/java面向对象编程.md)
 *  [4.Java核心类库（上）](files/javaSe/java核心类库上.md)
