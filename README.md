@@ -1,8 +1,8 @@
 # 数据之路
 
 ## 大数据预科
-|[Java基础](#Java基础)|[Java Web可视化](#数据可视化)|[数据结构](#数据结构)|[算法](#算法)|[设计模式](#设计模式)|[面试篇](#面试篇)|  
-|:----:|:----:|:----:|:----:|:----:|:----:|
+|[Java基础](#Java基础)|[Java Web可视化](#数据可视化)|[JVM](#Java虚拟机)|[数据结构](#数据结构)|[算法](#算法)|[设计模式](#设计模式)|[面试篇](#面试篇)|  
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 
 <!-- ## 计算机专业基础  
 
@@ -49,10 +49,16 @@
 
 ### Java基础
 学习语法规则及核心类库，锻炼编程能力、建立编程思维、熟悉企业编码规范
-*  [1.Java初识](javaSe/初识.md)
-*  [2.Java语言基础](files/javaSe/语言基础.md)
-*  [3.Java面向对象编程](files/javaSe/面向对象编程.md)
-*  [4.Java核心类库（上）](files/javaSe/核心类库上.md)
+*  [Java初识](javaSe/初识.md)
+*  [Java语言基础及二进制](files/javaSe/语言基础.md)
+*  [面向对象](files/javaSe/面向对象编程.md)
+*  [泛型]()
+*  [Java容器]()
+    * [Collection]()
+    * [List]()
+    * [LinkedList]()
+    * [Stack]()
+    * [Vector]()
 *  [5.Java核心类库（下）](files/javaSe/核心类库下.md)
 
 ### 数据可视化
@@ -62,7 +68,7 @@
 *  [3.Java web后端技术（上）](files/javaWeb/后端技术上.md)
 *  [4.Java web后端技术（下）](files/javaWeb/后端技术下.md)
 *  [5.案例](files/javaWeb/案例.md)
-
+### Java虚拟机
 ### 数据结构
 
 
@@ -73,7 +79,3 @@
 *	[单例模式](files/designPattern/单例模式.md)
 
 ### 面试篇
-
-### 在读书籍
-* [Java核心编程]()  
-* [Java编程的逻辑 - 马俊昌](http://search.dangdang.com/?key=Java%B1%E0%B3%CC%B5%C4%C2%DF%BC%AD&act=input)  
