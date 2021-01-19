@@ -1,7 +1,7 @@
 # 数据之路
 
 ## 基础篇
-|[Java核心](#Java核心)|[Python]()|[Scala]()|[Htm/Css/JS]()|[数据结构](#数据结构)|[算法](#算法)|[设计模式](#设计模式)|[Linux](#Linux)|[JVM](#JVM)|
+|[Java核心](#Java核心)|[Python]()|[Scala]()|[Htm/Css/JS](#前端技术)|[数据结构](#数据结构)|[算法](#算法)|[设计模式](#设计模式)|[Linux](#Linux)|[JVM](#JVM)|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 
 ## Web框架
@@ -13,7 +13,7 @@
 |:----:|:----:|
 
 ## 数据存储
-|[Mysql]()|[Mongo]()|[Redis]()|[Neo4j]()|
+|[Mysql](#Mysql)|[Mongo]()|[Redis]()|[Neo4j]()|
 |:----:|:----:|:----:|:----:|
 
 ## 运维
@@ -42,7 +42,11 @@
 
 ### Java核心
 学习语法规则及核心类库，锻炼编程能力、建立编程思维、熟悉企业编码规范
-* [Java初识](javaSE/初识.md)
+* Java初识
+    * [Java简介](javaSE/00/java简介.md)
+    * [MacOS上安装Java](javaSE/00/MacOS上安装java.md)
+    * [第一个Java程序](javaSE/00/第一个java程序.md)
+    * [java常用开发工具](javaSE/00/java常用开发工具.md)
 * 编程基础与二进制
     * [数据类型与变量](javaSE/01/数据类型与变量.md)
     * [运算符与控制流程](javaSE/01/运算符与控制流程.md)
@@ -81,6 +85,13 @@
     * [Socket]()
     * [TCP]()
     * [UDP]()
+  
+### 前端技术
+* [HTML](javaWeb/html.md)
+* [CSS](javaWeb/css.md)
+
+
+
 ### 数据结构
 * [杂谈]()
 * [数组]()
@@ -102,3 +113,8 @@
 * [单例模式](files/designPattern/单例模式.md)
 
 ### Linux
+
+
+### Mysql
+
+* #### [命名规范](mysql/命名规范.md)
