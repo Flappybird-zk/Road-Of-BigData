@@ -125,6 +125,7 @@
 
 ### Tomcat
 * [基础](./javaWeb/tomcat/基础.md)
+* [Idea中的使用](./javaWeb/tomcat/Idea中使用Tomcat.md)
 
 
 
